@@ -1,0 +1,47 @@
+/* styles.css */
+body {
+	
+    font-family: Arial, sans-serif;
+    
+}
+
+a{
+	text-decoration:none;
+}
+
+.header{
+	
+	height:100px;
+	background-color:aquamarine
+}
+
+.header-logo{
+	padding:20px;
+	font-size:40px;
+	float:left;
+	
+}
+.header-list{
+	
+	float:left;
+}
+
+.header-list li{
+	
+	list-style:none;
+	float:left;
+	padding:20px
+	
+}
+
+.print img{
+	
+	width:700px;
+	height:700px;
+	padding-top:20px;
+}
+
+.print p{
+	padding-left:350px;
+	font-size:20px;
+}
